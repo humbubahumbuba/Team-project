@@ -10,3 +10,10 @@
     font-size: 20px;
     line-height: 1.4;
 }
+
+@media screen and (min-width:768px) {
+    .modal-form__title {
+        font-size: 20px;
+        line-height: 1.4;
+    }
+}
