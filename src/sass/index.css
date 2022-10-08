@@ -229,4 +229,16 @@ ol {
   margin-left: auto;
   margin-right: auto;
   box-shadow: 0 5.26027px 19.726px rgba(10, 136, 23, 0.25);
+}
+
+.modal-video {
+  width: 100%;
+  height: 199px;
+}
+
+@media screen and (min-width: 768px) {
+  .modal-video {
+    width: 448px;
+    height: 205px;
+  }
 }/*# sourceMappingURL=index.css.map */
